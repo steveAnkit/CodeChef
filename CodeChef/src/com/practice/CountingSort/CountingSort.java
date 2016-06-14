@@ -45,6 +45,7 @@ public class CountingSort {
 		       d[inputArray[i]]--;
 		}
 		 
+        
 		 printArray(resultArray);
 		
 		
