@@ -37,7 +37,6 @@ public class CandyDistribution {
 	    	
 		}
 	    
-	    
 	    long sum =0;
 	    for (int i = 0; i < result.length; i++) {
 			sum  = sum + result[i];
